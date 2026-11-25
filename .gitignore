@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv-01314/
+__pycache__/
+*.py[cod]
+*.log
+browser-profile/
+browser-profile-01314/
+agent-profile/
+google-form-profile/
+workspace/
